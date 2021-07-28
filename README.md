@@ -9,6 +9,6 @@
 - ⚡ Fun fact: I'm afraid of cats🙀 and dogs🐶
 
 * * *
-![img](https://github-readme-stats.vercel.app/api?username=winsa24)  
+![img](https://github-readme-stats.vercel.app/api?username=winsa24&show_icons=true&theme=dark)  
   
 ![img](https://github-readme-stats.vercel.app/api/top-langs?username=winsa24&show_icons=true&theme=radical&langs_count=10&layout=compact)
